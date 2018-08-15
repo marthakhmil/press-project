@@ -1,0 +1,81 @@
+.navbar-toggler{
+    border:none;
+}
+body{
+    color:#134a5f;
+}
+.btn-link{
+    text-decoration: none;
+    color:#134a5f;
+}
+.btn-link:hover{
+  color:#dd404f;
+}
+.bg-color{
+    background-color:#ffffff;
+}
+.card{
+    border:none;
+}
+h2{
+    text-align: center;
+   background-color:#bcdbe7;
+  height: 55px;
+  align-items:center;
+}
+#announcements a{
+    text-decoration: none;
+    color:#134a5f;
+}
+#announcements a:hover{
+    color:#dd404f;
+}
+
+footer  {
+  flex: 0 0 auto;
+}   
+footer h2{
+  text-align: center;
+  background-color:#bcdbe7;
+  height: 55px;
+  align-items:center;
+}
+footer .conection{
+  padding: 10px;
+  float: left;
+  width: 40%;
+  margin-left: 5%;
+}
+footer .contacts{
+  padding: 10px;
+  float: left;
+  width: 40%;
+  margin-left: 5%;
+}
+footer h3{
+   text-align: center;
+}
+footer .conection form textarea {
+  background-color:#bcdbe7;
+}
+footer .conection form input{
+  background-color:#bcdbe7;
+}
+.contacts-move li a{
+    text-decoration: none;
+    color:#134a5f ;
+}
+.contacts-move li a:hover{
+   color:#dd404f;
+}
+.btn, .btn-color{
+    background-color:#134a5f; 
+    color:#bcdbe7;
+}
+.media {
+    margin: 3%;
+    display: inline-table;
+}
+.nav-link{
+    color:#134a5f;
+}
